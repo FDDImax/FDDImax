@@ -1,11 +1,8 @@
 
-[![Header](https://github.com/FDDImax/FDDImax/blob/main/asset.gif)
-# Maksim Bogdanov
-## I'm a beginner QA Engineer  
-=======
 ![Header](https://github.com/FDDImax/FDDImax/blob/main/assets/asset.gif)
 
-## I'm a QA Engineer  
+## I'm a beginner QA Engineer  
+
 
 ## 
 [Link to my CV] (https://hh.ru/resume/4fc5420cff0bb6620c0039ed1f566642714b56)
