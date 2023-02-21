@@ -26,7 +26,9 @@
 
 ### Testing Documentation
 
+Bag Report, Test Case (https://docs.google.com/spreadsheets/d/1WwPiC2JOSK463bkFRdiMVy0nRl33p5NoU7MmS0d7Z5A/edit#gid=0)
 
+My Sql home work SELECTs(https://drive.google.com/file/d/1_kBjCzp645U7oeGwNtw7WCuVlxhhJK4M/view?usp=sharing)
 
 
 ### Follow Me
