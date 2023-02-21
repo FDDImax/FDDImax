@@ -1,4 +1,4 @@
-[![Header](https://github.com/FDDImax/FDDImax/blob/main/asset.gif)
+![Header](https://github.com/FDDImax/FDDImax/blob/main/asset.gif)
 # Maksim Bogdanov
 ## I'm a QA Engineer  
 ## 
