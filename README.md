@@ -27,6 +27,7 @@
 ### Testing Documentation
 
 Bag Report, Test Case, Check List (https://docs.google.com/spreadsheets/d/1WwPiC2JOSK463bkFRdiMVy0nRl33p5NoU7MmS0d7Z5A/edit#gid=0)
+Bag Report Yandex Travel LEVEL (https://docs.google.com/spreadsheets/d/16YD1QtATcZV_8w7dkV3S-YXmGO1SYOX7kxZk3t1tmk0/edit?usp=sharing)
 
 My Sql home work SELECTs (https://drive.google.com/file/d/1_kBjCzp645U7oeGwNtw7WCuVlxhhJK4M/view?usp=sharing)
 
