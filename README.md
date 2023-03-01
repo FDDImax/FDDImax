@@ -28,7 +28,9 @@
 
 Bag Report, Test Case, Check List (https://docs.google.com/spreadsheets/d/1WwPiC2JOSK463bkFRdiMVy0nRl33p5NoU7MmS0d7Z5A/edit#gid=0)
 
-Bag Report Yandex Travel LEVEL (https://docs.google.com/spreadsheets/d/16YD1QtATcZV_8w7dkV3S-YXmGO1SYOX7kxZk3t1tmk0/edit?usp=sharing)
+Bag Report for Yandex Travel LEVEL (https://docs.google.com/spreadsheets/d/16YD1QtATcZV_8w7dkV3S-YXmGO1SYOX7kxZk3t1tmk0/edit?usp=sharing)
+
+Bag Report for Yandex Market Partner (https://docs.google.com/spreadsheets/d/1rWfz5Y7XctIltLQDe-zi091iF8p2C0dK4fnvPnJTcWs/edit#gid=0)
 
 My Sql home work SELECTs (https://drive.google.com/file/d/1_kBjCzp645U7oeGwNtw7WCuVlxhhJK4M/view?usp=sharing)
 
