@@ -26,11 +26,16 @@
 
 ### Testing Documentation
 
-Bag Report, Test Case, Check List (https://docs.google.com/spreadsheets/d/1WwPiC2JOSK463bkFRdiMVy0nRl33p5NoU7MmS0d7Z5A/edit#gid=0)
+Bag Report, Test Case, Check List for Ali (https://docs.google.com/spreadsheets/d/1WwPiC2JOSK463bkFRdiMVy0nRl33p5NoU7MmS0d7Z5A/edit#gid=0)
 
 Bag Report for Yandex Travel LEVEL (https://docs.google.com/spreadsheets/d/16YD1QtATcZV_8w7dkV3S-YXmGO1SYOX7kxZk3t1tmk0/edit?usp=sharing)
 
 Bag Report for Yandex Market Partner (https://docs.google.com/spreadsheets/d/1rWfz5Y7XctIltLQDe-zi091iF8p2C0dK4fnvPnJTcWs/edit#gid=0)
+
+Bag Report for Yandex Education (https://docs.google.com/spreadsheets/d/1Sx6n1y-wvYdS9thoPqQMGhTwEnrkJjEG8VWf1SZnbMo/edit?usp=sharing)
+
+Test Case калдунщик for Yandex Translate (https://docs.google.com/spreadsheets/d/1TqwzbPi2DYBNQlwTd_wWyp1BoawRCKGG8UDzZGV_ug8/edit?usp=sharing) 
+
 
 My Sql home work SELECTs (https://drive.google.com/file/d/1_kBjCzp645U7oeGwNtw7WCuVlxhhJK4M/view?usp=sharing)
 
