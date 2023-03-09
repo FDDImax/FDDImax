@@ -5,7 +5,8 @@
 
 
 ## 
-[Link to my CV] (https://hh.ru/resume/4fc5420cff0bb6620c0039ed1f566642714b56)
+[Link to my CV] https://hh.ru/resume/c4497addff0bbe0a330039ed1f796a77334c50
+
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
