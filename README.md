@@ -37,6 +37,9 @@ Bag Report for Yandex Education (https://docs.google.com/spreadsheets/d/1Sx6n1y-
 
 Test Case калдунщик for Yandex Translate (https://docs.google.com/spreadsheets/d/1TqwzbPi2DYBNQlwTd_wWyp1BoawRCKGG8UDzZGV_ug8/edit?usp=sharing) 
 
+Bag Report for Team Lead    ( https://docs.google.com/spreadsheets/d/1c1ecgMJWpk7gXSO9yfXeRR12XaBV2HPnS9X0-Sy-Ygg/edit?usp=sharing )
+
+Bag Report for DavydovStudio (https://docs.google.com/spreadsheets/d/1nTZBZwPtH02BUOBlYHhqv7rKm-B_ugqcpeN9HVRVt20/edit?usp=sharing)
 
 My Sql home work SELECTs (https://drive.google.com/file/d/1_kBjCzp645U7oeGwNtw7WCuVlxhhJK4M/view?usp=sharing)
 
