@@ -1,7 +1,7 @@
 
 ![Header](https://github.com/FDDImax/FDDImax/blob/main/assets/asset.gif)
 
-## I'm a beginner QA Engineer  
+## I'm a QA Engineer  
 
 
 ## 
