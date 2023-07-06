@@ -3,12 +3,11 @@
 
 ## I'm a QA Engineer  
 
+## MY CV LINK↓
+[![header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/posts/fddimax_%D0%BC%D0%BE%D1%91-cv-activity-7082610910938214400-OhkB?utm_source=share&utm_medium=member_desktop)
 
-## 
-[Link to my CV] https://hh.ru/resume/c4497addff0bbe0a330039ed1f796a77334c50
 
-
-### Language and Tools
+### Hard Skills
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -45,4 +44,5 @@ My Sql home work SELECTs (https://drive.google.com/file/d/1_kBjCzp645U7oeGwNtw7W
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/bogdanovmaksim?igshid=ZDdkNTZiNTM=)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/MaxFDDI)
 [![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/MaBogdanov)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](www.linkedin.com/in/MaksimBogdanov-ba4776261)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/fddimax/) 
+
